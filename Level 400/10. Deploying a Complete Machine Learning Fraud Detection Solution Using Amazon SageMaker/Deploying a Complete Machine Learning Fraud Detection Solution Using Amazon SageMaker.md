@@ -864,10 +864,3 @@ Thank you.
 This fraud detection solution demonstrates the power of Amazon SageMaker and AWS services in deploying a scalable, production-ready machine learning model. By integrating SageMaker with Lambda, API Gateway, and a suite of monitoring tools, the solution offers real-time fraud detection capabilities with robust monitoring and alerting. It provides a scalable and efficient architecture that can adapt to the evolving needs of fraud detection and similar applications in production environments.
 
 Whether for detecting fraudulent transactions, monitoring network security, or performing anomaly detection, this solution showcases best practices for deploying machine learning on AWS at scale.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/10.%20Deploying%20a%20Complete%20Machine%20Learning%20Fraud%20Detection%20Solution%20Using%20Amazon%20SageMaker)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
