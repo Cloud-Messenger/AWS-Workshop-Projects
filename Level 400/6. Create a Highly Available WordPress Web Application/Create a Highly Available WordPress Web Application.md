@@ -709,10 +709,3 @@ If you created the workshop-user IAM User to follow the workshop labs, make sure
 This project demonstrates the creation of a **highly available, fault-tolerant WordPress application on AWS**, featuring automated scaling, traffic distribution, and shared storage. Leveraging AWS’s managed services, the architecture provides a robust solution for production-ready applications where uptime and scalability are essential. By combining services such as **VPC**, **EC2**, **EFS**, **RDS**, and **ALB**, this setup ensures efficient resource management, optimized cost, and minimal manual intervention.
 
 This architecture can be applied to any high-traffic WordPress deployment to achieve a resilient and scalable environment with easy content management.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/6.%20Create%20a%20Highly%20Available%20WordPress%20Web%20Application)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
