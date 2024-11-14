@@ -5,12 +5,6 @@
 
 My story of the AWS Cloud Resume Challenge
 
-## About Me
-
-Hi, I am Asif Khan, and I am 24 years old. I live in India and have a bachelor’s and a master’s degree in Computer Science, graduating in 2024. My previous job involved blogging about technical topics like Data Science and Software Development, which then transitioned into creating AI courses for Udemy. As for cloud experience, I have none. However, I got my first computer when I was 4 years old (in 2004), so I have been familiar with computers for a long time. When I was 16 (in 2016), I decided that I wanted to do something in cloud, but then college started, and I couldn’t pursue it until this year.
-
-In April, I came across the Cloud Resume Challenge and had no idea what the cloud was or why it was booming or what is AWS. However, at the time of writing this blog, I have completed over 30 AWS projects, including the CRC, and I have also earned two AWS certifications: AWS Certified Cloud Practitioner and AWS Certified Solutions Architect — Associate.
-
 ### Why I Decided to Do the Cloud Resume Challenge
 
 I graduated this year in April, and since I was 16, I’ve wanted to work in the cloud, so I felt it was the right time for me to start. While watching YouTube, I came across a YouTuber named [Soleyman](https://www.youtube.com/@techwithsoleyman), and that’s when I first heard of “[The Cloud Resume Challenge](https://cloudresumechallenge.dev/).” Even though it was my first time hearing about it, I couldn’t forget the name after that.
@@ -39,13 +33,8 @@ Was it a mistake to start with the Cloud Resume Challenge as my first AWS projec
 
 * I gained experience with website hosting, DNS, HTTP vs HTTPS, GitHub CLI & Actions, Infrastructure as Code (Terraform and CloudFront), and much more. All of this helped me pass the SAA-03 exam.
 
-It felt like playing at a high level from the start, and that challenge motivated me to take on more projects like “Serverless Data Processing on AWS,” “Large-scale Data Processing with Step Functions,” and “Web Applications based on Amazon EKS.” You can check my [**LinkedIn](https://www.linkedin.com/in/asif0108/)** profile for more.
-
+It felt like playing at a high level from the start, and that challenge motivated me to take on more projects like “Serverless Data Processing on AWS,” “Large-scale Data Processing with Step Functions,” and “Web Applications based on Amazon EKS.”
 Looking back, from when I started the CRC to today, with 2 AWS certifications and 30+ AWS projects, I can say it was totally worth it. Thank you, [**Forrest Brazeal](https://forrestbrazeal.com/)**, for creating this amazing challenge. I truly don’t know where I’d be if the CRC had not been my first AWS project.
-
-### What after the Cloud Resume Challenge?
-
-With the CRC completed, two AWS certifications earned, and 30+ AWS projects created, it’s now time for me to find a job in the cloud. By the time I start my job search, you can read below about how I completed the CRC. Also here are my [**portfolio](https://asif-khan.click/), [LinkedIn](https://www.linkedin.com/in/asif0108/), and [GitHub](https://github.com/Dark-Cookie).**
 
 ### Architecture Diagram
 
@@ -97,10 +86,4 @@ For someone new to AWS and the cloud, remember that hands-on practice is key to 
 In the blog above, I haven’t explicitly mentioned how I performed certain tasks because I believe that working through them yourself is the best way to learn and understand. It will pay off in the long run.
 
 Lastly, thank you again, **Forrest Brazeal**, for creating this challenge. It has helped me in so many ways that if I started writing them all down here, it would get very ! 😅 Good luck to anyone new to the cloud or starting the Cloud Resume Challenge. You’ve got this!
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
 
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
-
-## Links
-
-* Click [here](https://asif-khan.click/) to view the website/portfolio developed
