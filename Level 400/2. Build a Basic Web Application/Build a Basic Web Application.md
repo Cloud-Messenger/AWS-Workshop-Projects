@@ -685,10 +685,3 @@ AWS imposes limits on Lambda’s execution time and memory. Optimize the functio
 ## Conclusion
 
 In this project, I learned how to build and deploy a simple web application with user authentication and data storage on AWS using Amplify. The setup demonstrates a full-stack serverless application, ideal for rapid development and easy scaling. AWS Amplify offers an efficient way to manage web applications and their backend services, perfect for various use cases, from prototyping to production.
-
-Explore my [GitHub repository.](https://github.com/Dark-Cookie/AWS-Projects/tree/main)
-
-> **Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler**
-
-_<u>[LinkedIn](https://www.linkedin.com/in/asif0108/)/[Twitter](https://x.com/asif26073)/[GitHub](https://github.com/Dark-Cookie)</u>_
-
