@@ -17,47 +17,47 @@ Projects are labeled based these four levels:
 - **Project 1**: Create Three Billing Alarms
   - **Description**: This project involves setting up three AWS billing alarms to help monitor and control my AWS spending.
   - **Service Used**: CloudWatch
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/1.%20Create%20Three%20Billing%20Alarms)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/1.%20Create%20Three%20Billing%20Alarms)
 
 - **Project 2**: Create a Cost Budget
   - **Description**: This project involves setting up a cost budget in AWS to help monitor and control spending.
   - **Service Used**: AWS Budgets
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/2.%20Create%20a%20Cost%20Budget)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/2.%20Create%20a%20Cost%20Budget)
 
 - **Project 3**: Launch a Hello World Website on the Internet
   - **Description**: This project involves creating a basic web server on an AWS EC2 instance that hosts a simple "Hello World" website. The objective is to familiarize myself with setting up an EC2 instance, configuring it, and deploying a basic web application to make it accessible over the Internet.
   - **Service Used**: Amazon EC2
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/3.%20Launch%20a%20Hello%20World%20Website%20on%20the%20Internet)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/3.%20Launch%20a%20Hello%20World%20Website%20on%20the%20Internet)
 
 - **Project 4**:  Push a Docker Image to Amazon ECR Repository
   - **Description**: This project involves building a Docker image and pushing it to an Amazon Elastic Container Registry (ECR) repository. This process includes creating an ECR repository, tagging the Docker image, and using AWS CLI commands to authenticate and push the image to the repository.
   - **Service Used**: Amazon Elastic Container Registry (ECR), Docker, AWS CLI
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/4.%20Push%20a%20Docker%20Image%20to%20Amazon%20ECR%20Repository)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/4.%20Push%20a%20Docker%20Image%20to%20Amazon%20ECR%20Repository)
 
 - **Project 5**:  Creating an Amazon RDS DB Instance (MS SQL Server)
   - **Description**: Set up and configure a Microsoft SQL Server database instance using Amazon RDS. This includes choosing the appropriate instance type, configuring security settings, setting up backups and maintenance windows, and ensuring high availability.
   - **Service Used**: Amazon Relational Database Service (RDS)
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/5.%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server))
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/5.%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server))
 
 - **Project 6**:  Create a DynamoDB Table
   - **Description**: This project involved creating a DynamoDB table with provisioned capacity. Three random items were inserted into the table. A scan operation was performed to retrieve all items, and a query operation was used to fetch a single item based on specific criteria.
   - **Service Used**: Amazon DynamoDB
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/6.%20Create%20a%20DynamoDB%20Table)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/6.%20Create%20a%20DynamoDB%20Table)
 
 - **Project 7**:  Install & Configure AWS CLI then Create an S3 Bucket
   - **Description**: This project involves setting up AWS CLI on your local machine, configuring it with your AWS credentials, and using it to create, list, and delete an S3 bucket. This process ensures that you can interact with AWS services programmatically and manage your S3 resources effectively.
   - **Service Used**: AWS CLI, Amazon S3
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20Create%20an%20S3%20Bucket)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20Create%20an%20S3%20Bucket)
 
 - **Project 8**:  Create an S3 Bucket and store an object in it
   - **Description**: This project involves creating an Amazon S3 bucket using the AWS Management Console and uploading a file into the bucket. Amazon S3 (Simple Storage Service) is used to store and retrieve any amount of data at any time, and this project demonstrates the basic steps of setting up and using S3 for storage.
   - **Service Used**: Amazon S3
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it)
 
 - **Project 9**:  Introduction to SNS (Simple Notification Service)
   - **Description**: This project involves creating an Amazon SNS (Simple Notification Service) topic, subscribing an email address to the topic, and confirming the subscription through the email. After confirming, a test message is sent through the SNS topic to verify that the email address receives the notification, demonstrating the basic functionality and setup of SNS for sending notifications.
   - **Service Used**: Amazon SNS
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/9.%20Introduction%20to%20SNS)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/9.%20Introduction%20to%20SNS)
 
 - **Project 10**:  Create a Lambda Function to Add Two Numbers
   - **Description**: Developed an AWS Lambda function using Python that takes two numbers as input, adds them together, and returns the result. The function also print the result out in the logs.
