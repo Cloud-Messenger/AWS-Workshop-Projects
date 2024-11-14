@@ -2327,10 +2327,3 @@ Do they differ? For this simulated dataset, which would be considered small for 
 This project demonstrates the effectiveness of AWS Step Functions in orchestrating a large-scale, serverless data processing workflow. By using Step Functions in tandem with Amazon S3, CloudWatch, X-Ray, and IAM, we created a solution that scales efficiently, provides high visibility into operations, and ensures data security. The architecture exemplifies how serverless services can simplify complex workflows, offering a robust approach to data processing challenges.
 
 This project can serve as a template for businesses seeking to manage large datasets efficiently, whether for data analytics, machine learning pipelines, or ETL workflows.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/9.%20Large-scale%20Data%20Processing%20with%20Step%20Functions)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
