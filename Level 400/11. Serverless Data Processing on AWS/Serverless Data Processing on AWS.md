@@ -1244,10 +1244,3 @@ Stop and start the producer while watching the dashboard and the consumer. Start
 The **serverless data processing solution** built on AWS demonstrates the power of serverless architecture in handling real-time data streams. By integrating services such as Kinesis, Lambda, DynamoDB, and S3, this project provides a scalable, efficient, and secure platform for processing high-throughput data with minimal infrastructure management.
 
 This architecture is versatile, offering applications across IoT, financial transactions, and web monitoring, among other use cases. It exemplifies how serverless services can simplify complex data processing needs while maintaining scalability and cost-effectiveness.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/11.%20Serverless%20Data%20Processing%20on%20AWS)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
