@@ -497,10 +497,3 @@ You successfully built a continuous delivery pipeline on AWS! As a great next st
 This project showcases a **Continuous Delivery pipeline on AWS** that enables teams to automate the entire deployment process, from code commit to production deployment. With CodePipeline, CodeBuild, and Elastic Beanstalk, this architecture supports scalable, high-availability web applications that can handle rapid code changes.
 
 By implementing this pipeline, development teams can focus more on code quality and less on manual deployment steps, leading to faster feature releases and more reliable application performance.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/7.%20Create%20a%20Continuous%20Delivery%C2%A0Pipeline)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
