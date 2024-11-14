@@ -1344,10 +1344,3 @@ We strongly recommend that you double-check to make sure you haven’t missed an
 This project demonstrates how to build a **fault-tolerant, multi-tier web application on AWS** that provides high availability and efficient resource utilization. By leveraging **AWS VPC**, **EC2**, **Aurora**, and **S3**, the architecture ensures reliable performance, even under high traffic or unexpected failures, with scalable backend resources and optimized delivery for static content.
 
 This setup is highly applicable for production-grade web applications and offers an ideal framework for other high-availability, fault-tolerant projects.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/5.%20Multi-Tier%2C%20Highly%20Available%2C%20Fault-Tolerant%20Web%20Application%20on%C2%A0AWS/Multi-Tier%2C%20Highly%20Available%2C%20Fault-Tolerant%20Web%20Application%20on%C2%A0AWS)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
