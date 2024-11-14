@@ -749,10 +749,5 @@ Once you’ve confirmed that the app is working as expected locally, it’s time
 
 By combining **AWS Amplify** for the frontend, **Amazon Bedrock** for AI-powered recipe generation, and **AWS Cognito** for secure authentication, we've built a robust, serverless application that generates personalized recipes based on user input. This project demonstrates the potential of AWS services to create scalable, AI-driven applications for various domains like e-commerce, content creation, and beyond.
 
-Explore my [GitHub repository.](https://github.com/Dark-Cookie/AWS-Projects/tree/main)
-
-> **Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler**
-
-_<u>[LinkedIn](https://www.linkedin.com/in/asif0108/)/[Twitter](https://x.com/asif26073)/[GitHub](https://github.com/Dark-Cookie)</u>_
 
 ---
