@@ -2906,10 +2906,3 @@ At the end of this workshop, you need to delete used resources to avoid addition
 ## Conclusion
 
 This project demonstrates the power of Amazon EKS and its associated AWS services in delivering a scalable, efficient, and reliable web application infrastructure. By using Kubernetes on AWS, we’ve created a resilient environment suitable for high-demand applications. The integration of Fargate, ECR, Container Insights, and a CI/CD pipeline brings automation, visibility, and scalability to web application deployments on AWS.
-
-## Code Repository
-
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/8.%20Building%20Web%20Applications%20Using%20Amazon%C2%A0EKS)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
-
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
