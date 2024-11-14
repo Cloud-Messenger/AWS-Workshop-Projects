@@ -62,27 +62,27 @@ Projects are labeled based these four levels:
 - **Project 10**:  Create a Lambda Function to Add Two Numbers
   - **Description**: Developed an AWS Lambda function using Python that takes two numbers as input, adds them together, and returns the result. The function also print the result out in the logs.
   - **Service Used**: AWS Lambda
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/10.%20Create%20a%20Lambda%20Function%20to%20Add%20Two%20Numbers)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/10.%20Create%20a%20Lambda%20Function%20to%20Add%20Two%20Numbers)
 
 - **Project 11**:  Host a Simple Static Webpage with S3 and CloudFront
   - **Description**: Set up an S3 bucket to host a static webpage and uploaded the webpage content. Configured an Amazon CloudFront distribution to use the S3 bucket as its origin, ensuring that the webpage content is accessible only through the CloudFront endpoint to enhance security and performance.
   - **Service Used**: Amazon S3, Amazon CloudFront
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/11.%20Host%20a%20Simple%20Static%20Webpage%20with%20S3%20and%20CloudFront)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/11.%20Host%20a%20Simple%20Static%20Webpage%20with%20S3%20and%20CloudFront)
 
 - **Project 12**:  Create an IAM User
   - **Description**: Configured IAM by creating a new user with console access and adding it to a newly created group named "adminsGroup" with `AdministratorAccess` permissions. Enabled multi-factor authentication (MFA) for the root user and applied a password policy to enforce security best practices.
   - **Service Used**: AWS Identity and Access Management (IAM)
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/12.%20Create%20an%20IAM%20User)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/12.%20Create%20an%20IAM%20User)
 
 - **Project 13**:  Use a Managed Config Rule
   - **Description**: Implemented and monitored an AWS Config rule to ensure compliance with encryption policies for EBS volumes. Enabled AWS Config in the US-EAST-1 region, selected the managed Config rule `encrypted-volumes`, and launched an EC2 instance with an unencrypted EBS volume to verify that the Config rule detects non-compliance.
   - **Service Used**: AWS Config
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/13.%20Use%20a%20Managed%20Config%20Rule)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/13.%20Use%20a%20Managed%20Config%20Rule)
 
 - **Project 14**:  Deploy a CloudFormation Template from the AWS Console
   - **Description**: Downloaded a pre-made CloudFormation template and used it to create a CloudFormation stack. Monitored the deployment process through the events tab, confirmed the creation of a DynamoDB table and an S3 bucket, and then deleted the stack to ensure both resources were removed as part of the cleanup.
   - **Service Used**: AWS CloudFormation
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20100/14.%20Deploy%20a%20CloudFormation%20Template%20from%20the%20AWS%20Console)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20100/14.%20Deploy%20a%20CloudFormation%20Template%20from%20the%20AWS%20Console)
 
 ## Level 200 (Intermediate)
 
@@ -92,47 +92,47 @@ Projects are labeled based these four levels:
 
   - **Description**: This project involves setting up an Auto Scaling Group (ASG) to manage the number of EC2 instances dynamically based on my configuration.
   - **Service Used**: Amazon EC2 Auto Scaling
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group)
 
 - **Project 2**:  Deploy a Docker container image on AWS Fargate
   - **Description**: Deployed a Docker container image on AWS Fargate, allowing for scalable and managed execution of containerized applications without managing servers.
   - **Service Used**: AWS Fargate, Docker, Amazon ECS
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate)
 
 - **Project 3**:  Create an Aurora RDS Database
   - **Description**: Set up an Aurora RDS database using the MySQL-compatible engine and connected to the database from a local MySQL client _(MySQL Workbench)_ to create and test a table.
   - **Service Used**: Amazon Aurora RDS
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database)
 
 - **Project 4**:  Setup a Simple State Machine with Two Steps
 
   - **Description**: This project involves creating a state machine that orchestrates the execution of two AWS Lambda functions and verifying that the combined functionality produces the correct results.
   - **Service Used**: AWS Step Functions, AWS Lambda
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/4.%20Setup%20a%20Simple%20State%20Machine%20with%20at%20Least%20Two%20Steps)
 
 - **Project 5**:  Create a Serverless API
 
   - **Description**: This project involves setting up a Lambda function designed to respond with the simple message, "Hello Serverless World!" An API Gateway is configured to expose this Lambda function as a RESTful API endpoint, which is tested using Postman. The API is secured with an API key to control access and ensure that only authorized clients can interact with the service.
   - **Service Used**: AWS Lambda, Amazon API Gateway, AWS API Key
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/5.%20Create%20a%20Serverless%20API)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/5.%20Create%20a%20Serverless%20API)
 
 - **Project 6**:  Create a CloudWatch Alarm
 
   - **Description**: Set up a CloudWatch Alarm to monitor network traffic (NetworkIn) for an EC2 instance.
   - **Service Used**: AWS CloudWatch, AWS EC2
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm)
 
 - **Project 7**:  Create a New CMK in KMS and Encrypt an Object
 
   - **Description**: Created a new Customer Master Key (CMK) using AWS Key Management Service (KMS) and encrypted a file that was uploaded in an S3 bucket.
   - **Service Used**: AWS Key Management Service (KMS), Amazon S3
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/7.%20Create%20a%20New%20CMK%20in%20KMS%20and%20Encrypt%20an%20Object)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/7.%20Create%20a%20New%20CMK%20in%20KMS%20and%20Encrypt%20an%20Object)
 
 - **Project 8**:  Create an EFS Shared File System
 
   - **Description**: Set up an Amazon Elastic File System (EFS) to provide a shared file system across multiple Amazon EC2 instances in separate Availability Zones within the same region.
   - **Service Used**: Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2)
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20200/8.%20Create%20an%20EFS%20Shared%20File%20System)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20200/8.%20Create%20an%20EFS%20Shared%20File%20System)
 
 ## Level 300 (Advanced)
 
@@ -142,13 +142,13 @@ Projects are labeled based these four levels:
 
   - **Description**: Implemented SQL Server backup and restore on AWS RDS involving Amazon S3 bucket.
   - **Service Used**: Amazon RDS, Amazon S3
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS)
 
 - **Project 2**:  Deploy a VPC with Terraform
 
   - **Description**: Created Virtual Private Cloud (VPC), route tables (both public and private), route table associations, an internet gateway, an Elastic IP, and a NAT gateway and EC2 instance in both a public and a private subnet using Terraform (IaC)
   - **Service Used**: Amazon VPC, Amazon EC2, Terraform
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20300/2.%20Deploy%20a%20VPC%20with%20Terraform)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20300/2.%20Deploy%20a%20VPC%20with%20Terraform)
 
 ## Level 400 (Expert)
 
@@ -158,13 +158,13 @@ Projects are labeled based these four levels:
 
   - **Description**: Set up a Docker Swarm cluster across five EC2 instances, with one manager node and four worker nodes, and tested it by deploying an Nginx service.
   - **Service Used**: Amazon EC2, Docker (Swarm), Nginx
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/1.%20Create%20a%20Cluster%20of%20Virtual%20Machines%20Using%20Docker%20Swarm)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20400/1.%20Create%20a%20Cluster%20of%20Virtual%20Machines%20Using%20Docker%20Swarm)
 
 - **Project 2**:  Build a Basic Web Application
 
   - **Description**: This project involves building a full-stack web application using AWS Amplify. It features a simple React frontend with user authentication, a serverless function to handle user sign-ups, and a DynamoDB database for storing user emails. The application leverages AWS’s robust and scalable cloud services to deliver a seamless user experience, allowing users to sign up, log in, and store information securely.
   - **Service Used**: AWS Amplify, AWS AppSync, AWS Lambda, Amazon DynamoDB, 
-  - **Link**: [Project Directory](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/2.%20Build%20a%20Basic%20Web%20Application)
+  - **Link**: [Project Directory](https://github.com/Cloud-Messenger/AWS-Workshop-Projects/tree/main/Level%20400/2.%20Build%20a%20Basic%20Web%20Application)
  
   - 
   - **Project 3**: Build a Serverless Recipe Generator with AWS Amplify and Amazon Bedrock
